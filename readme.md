@@ -1,6 +1,6 @@
 ## Prerequisites:
 - Java JDK version 17+ should be installed in the system
-Add some changes for actionts.
+Add some changes for action!!!!
 Check it here https://www.oracle.com/java/technologies/downloads/#java17
 or here https://adoptium.net/temurin/releases/
 
